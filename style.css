@@ -478,8 +478,8 @@ h1, h2, h3, p, ul{
 .list-logo {
     display: flex;
     gap: 107px;
-    margin-left: auto;
-    margin-right: auto;
+    margin-left: 82px;
+    margin-right: 82pxgit;
 }
 
 .section-program {
